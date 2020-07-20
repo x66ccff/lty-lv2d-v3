@@ -2,7 +2,7 @@
 使用方法：
 https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 
-###给你的博客园添加一只萌萌的洛天依吧！
+### 给你的博客园添加一只萌萌的洛天依吧！
 如上一篇文章提到，本来打算用@unsignzhang 的方法和模型把洛天依添加到博客园
 （博文链接：http://unsignedzhang.cn/luotianyi-live2d/ ）
 但是因为live2d的v2版本模型（unsignedzhang的模型）在博客园上存在跨域引用的问题，所以导致模型无法显示在博客园里。
