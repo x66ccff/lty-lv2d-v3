@@ -34,7 +34,7 @@ https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 如果你访问上述cdn链接会发现，模型的名称是Hiyori（live2d的一个官方模型）而不是天依，这是因为模型的大部分文件（包括动作、表情）都是使用Hiyori的（来自@麻辣猪仔 的github），直接拿来主义了，如果要亲手做的话可能要很久；贴图来自 @unsignedzhang 的v2版本模型；而模型其他部分如各个参数的运动是我自己做的。
 
 效果展示：
- ![image](https://img2020.cnblogs.com/blog/2098442/202007/2098442-20200720164438652-1164030358.gif)
+ ![image](https://github.com/x66ccff/lty-lv2d-v3/.gif)
 
 项目github链接：https://github.com/x66ccff/lty-lv2d-v3
 本文作者：https://www.cnblogs.com/x66ccff/
