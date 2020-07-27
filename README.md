@@ -36,9 +36,9 @@ https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 
 ## 致谢
-(@unsignedzhang)[http://unsignedzhang.cn/luotianyi-live2d/]
-(@麻辣猪仔)[https://www.cnblogs.com/wstong/p/12874732.html]
-(@weixin_44128558)[https://blog.csdn.net/weixin_44128558/article/details/104792345]
+[@unsignedzhang](http://unsignedzhang.cn/luotianyi-live2d/)
+[@麻辣猪仔](https://www.cnblogs.com/wstong/p/12874732.html)
+[@weixin_44128558](https://blog.csdn.net/weixin_44128558/article/details/104792345)
 
 
 ps:本人目前无论在github还是博客、前端这方面都是小白，有什么地方做的不好请多多指教，如果这个模型有什么可以改进的欢迎在github上pull request（???）
