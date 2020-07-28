@@ -35,10 +35,13 @@ https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 可以到我的博客看天依！
 https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 
+## 帮助完善这个项目
+请看[贡献指南](https://github.com/x66ccff/lty-lv2d-v3/edit/master/CONTRIBUTING.md)
+
+## 其他博客平台的使用方法
+请看[其他平台使用方法](https://github.com/x66ccff/lty-lv2d-v3/edit/master/otherBlogs.md)
+
 ## 致谢
 [@unsignedzhang](http://unsignedzhang.cn/luotianyi-live2d/)
 [@麻辣猪仔](https://www.cnblogs.com/wstong/p/12874732.html)
 [@weixin_44128558](https://blog.csdn.net/weixin_44128558/article/details/104792345)
-
-
-ps:本人目前无论在github还是博客、前端这方面都是小白，有什么地方做的不好请多多指教，如果这个模型有什么可以改进的欢迎在github上pull request（???）
