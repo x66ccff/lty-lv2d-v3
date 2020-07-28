@@ -5,3 +5,5 @@
 ## 2.附加组件
 添加点击触发对话气泡、把鼠标改成鸡腿等等，通过添加新的js来实现
 ## 3.添加其他博客平台的使用说明
+在这个md文件中增加二级标题
+[其他博客平台](https://github.com/x66ccff/lty-lv2d-v3/blob/master/otherBlogs.md)
