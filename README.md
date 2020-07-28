@@ -36,10 +36,10 @@ https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
 
 ## 帮助完善这个项目
-请看[贡献指南](https://github.com/x66ccff/lty-lv2d-v3/edit/master/CONTRIBUTING.md)
+请看[贡献指南](https://github.com/x66ccff/lty-lv2d-v3/blob/master/CONTRIBUTING.md)
 
 ## 其他博客平台的使用方法
-请看[其他平台使用方法](https://github.com/x66ccff/lty-lv2d-v3/edit/master/otherBlogs.md)
+请看[其他平台使用方法](https://github.com/x66ccff/lty-lv2d-v3/blob/master/otherBlogs.md)
 
 ## 致谢
 [@unsignedzhang](http://unsignedzhang.cn/luotianyi-live2d/)
