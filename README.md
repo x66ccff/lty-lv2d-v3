@@ -1,4 +1,5 @@
 # 博客园live2d洛天依看板娘
+[![](https://data.jsdelivr.com/v1/package/gh/x66ccff/lty-lv2d-v3/badge)](https://www.jsdelivr.com/package/gh/x66ccff/lty-lv2d-v3)
 ## 给你的博客园添加一只萌萌的洛天依看板娘吧！
 使用方法：
 https://www.cnblogs.com/x66ccff/p/luotianyi-live2d-v3-in-cnblogs.html
