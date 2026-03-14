@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/gh/x66ccff/lty-lv2d-v3/badge)](https://www.jsdelivr.com/package/gh/x66ccff/lty-lv2d-v3)
+
 ## File description
 ### bundle.js
 ### live2dcubismcore.js
