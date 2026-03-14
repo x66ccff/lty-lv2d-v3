@@ -1,6 +1,6 @@
 [![](https://data.jsdelivr.com/v1/package/gh/x66ccff/lty-lv2d-v3/badge)](https://www.jsdelivr.com/package/gh/x66ccff/lty-lv2d-v3)
 
-![Preview](preview-luotianyi.gif)
+![Preview](preview-luotianyi_compressed.gif)
 
 ## File description
 ### bundle.js
