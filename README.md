@@ -1,5 +1,5 @@
 [![](https://data.jsdelivr.com/v1/package/gh/x66ccff/lty-lv2d-v3/badge)](https://www.jsdelivr.com/package/gh/x66ccff/lty-lv2d-v3)
-    <a href="https://x66ccff.github.io/">
+    <a href="https://66ccff.blue/">
       <img src="https://img.shields.io/badge/Homepage-demo-66ccff?style=flat-square&logo=google-chrome&logoColor=white" alt="Homepage">
     </a>
     
